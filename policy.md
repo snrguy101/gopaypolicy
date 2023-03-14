@@ -57,6 +57,8 @@ In Short:  We collect information regarding your  push notifications, when you u
 
 If you use our App, we also collect the following information:
 
+Contact List. we may request to access your contact list, this is to help quick selection of contact to recharge via Gopay. and you equally have the permission to decline such request.
+
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
@@ -182,3 +184,6 @@ Nigeria
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
 This privacy policy was created using Termly’s Privacy Policy Generator.
+
+
+
