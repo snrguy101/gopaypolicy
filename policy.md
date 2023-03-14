@@ -1,6 +1,6 @@
 PRIVACY NOTICE
 
-Last updated August 12, 2021
+Last updated March 14, 2023
 
 
 
